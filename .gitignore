@@ -1,0 +1,10 @@
+.DS_Store
+#*#
+*~
+.ipynb_checkpoints/
+20news-bydate-test/
+20news-bydate-train/
+scikit-learn/
+Weather/combined
+*.gz
+pycon-pandas-tutorial/
